@@ -22,7 +22,7 @@
         <guava.version>25.1-jre</guava.version>
         <druid.version>1.1.10</druid.version>
         <common-lang3.version>3.8.1</common-lang3.version>
-        <jackson.version>2.10.3</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
     </properties>
 
     <dependencies>
