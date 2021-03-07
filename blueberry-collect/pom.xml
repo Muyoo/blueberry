@@ -26,7 +26,7 @@
         <guava-retrying.version>2.0.0</guava-retrying.version>
         <postgresql.client.version>42.2.2</postgresql.client.version>
         <druid.version>1.1.10</druid.version>
-        <jackson.version>2.10.3</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <pulsar.version>2.4.0</pulsar.version>
     </properties>
 
