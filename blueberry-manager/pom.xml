@@ -19,7 +19,7 @@
         <lombok.version>1.18.8</lombok.version>
         <spring-boot.version>2.1.6.RELEASE</spring-boot.version>
         <postgresql.client.version>42.2.2</postgresql.client.version>
-        <guava.version>25.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <druid.version>1.1.10</druid.version>
         <common-lang3.version>3.8.1</common-lang3.version>
         <jackson.version>2.10.3</jackson.version>
